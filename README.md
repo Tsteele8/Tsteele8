@@ -22,34 +22,36 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Verify the installation by running the MySQL command-line client.
+- Create databases and database users for your applications.
+- Define user roles within osTicket based on responsibilities
+- Implement SSL/TLS to secure the communication between the osTicket server and clients
+- Configure settings within osTicket to enforce strong passwords and define login session policies.
 
 <h2>Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/Tsteele8/Tsteele8/assets/149441408/9b7f0e31-c47c-4a59-add7-72b346a0400f)
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+IIS is a robust web server that allows hosting, managing, and serving web content, web applications, and services on Windows servers. It's used by businesses and developers to deploy a wide range of web-based solutions and services.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/Tsteele8/Tsteele8/assets/149441408/8fe1950b-5d1c-4431-83c2-ddf1f9c94441)
+
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Azure serves various business needs, from startups to enterprise-level organizations, providing a comprehensive set of cloud-based tools and services for building, deploying, and managing applications and services.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/Tsteele8/Tsteele8/assets/149441408/88357f01-1041-43aa-af67-0926e3b5bf18)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Developers use Remote Desktop to access development environments or testing servers located remotely.
 </p>
 <br />
